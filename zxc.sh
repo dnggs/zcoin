@@ -1,0 +1,1 @@
+sudo ./cpuminer -a lyra2z -o stratum+tcp://us-east.lyra2z-hub.miningpoolhub.com:20581 -u Dnggs.1 -p x
