@@ -4,4 +4,5 @@ git clone https://github.com/zcoinofficial/cpuminer-xzc
 cd cpuminer-xzc
 ./build.sh
 make
+wget https://raw.githubusercontent.com/dnggs/zcoin/master/zxc.sh
 screen
